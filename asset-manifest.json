@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HappyBirthdayQuiz/static/css/main.9d33d3f5.css",
+    "main.js": "/HappyBirthdayQuiz/static/js/main.2a8cf52f.js",
+    "static/js/787.6a94f6df.chunk.js": "/HappyBirthdayQuiz/static/js/787.6a94f6df.chunk.js",
+    "index.html": "/HappyBirthdayQuiz/index.html",
+    "main.9d33d3f5.css.map": "/HappyBirthdayQuiz/static/css/main.9d33d3f5.css.map",
+    "main.2a8cf52f.js.map": "/HappyBirthdayQuiz/static/js/main.2a8cf52f.js.map",
+    "787.6a94f6df.chunk.js.map": "/HappyBirthdayQuiz/static/js/787.6a94f6df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d33d3f5.css",
+    "static/js/main.2a8cf52f.js"
+  ]
+}
